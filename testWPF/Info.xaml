@@ -1,0 +1,14 @@
+﻿<Window x:Class="testWPF.Info"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:testWPF"
+        mc:Ignorable="d"
+        Title="Fitness App XYZ - Info" Height="471" Width="503" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Background="LightBlue">
+        <Button x:Name="buttonHowTo" Content="How to..." Background="Orange" Margin="10,10,12,0" VerticalAlignment="Top" Height="123" Click="buttonHowTo_Click"/>
+        <Button x:Name="buttonAbout" Content="About" Background="Orange" Margin="10,140,12,0" VerticalAlignment="Top" Height="124" Click="buttonAbout_Click"/>
+        <Button x:Name="buttonHome" Content="Home" Background="Orange" Margin="65,271,74,12" Click="buttonHome_Click"/>
+    </Grid>
+</Window>

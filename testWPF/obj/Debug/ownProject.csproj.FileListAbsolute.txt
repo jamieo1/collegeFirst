@@ -1,0 +1,48 @@
+C:\Users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\bin\Debug\testWPF.exe.config
+C:\Users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\bin\Debug\testWPF.exe
+C:\Users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\bin\Debug\testWPF.pdb
+C:\Users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\ownProject.csprojResolveAssemblyReference.cache
+C:\Users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\MainWindow.baml
+C:\Users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\App.g.cs
+C:\Users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+C:\Users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\testWPF.g.resources
+C:\Users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+C:\Users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\ownProject.csproj.GenerateResource.Cache
+C:\Users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\testWPF.exe
+C:\Users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\testWPF.pdb
+C:\Users\30009613\Documents\Visual Studio 2012\Projects\ownProject\testWPF\bin\Debug\testWPF.exe.config
+C:\Users\30009613\Documents\Visual Studio 2012\Projects\ownProject\testWPF\bin\Debug\testWPF.exe
+C:\Users\30009613\Documents\Visual Studio 2012\Projects\ownProject\testWPF\bin\Debug\testWPF.pdb
+C:\Users\30009613\Documents\Visual Studio 2012\Projects\ownProject\testWPF\obj\Debug\ownProject.csprojResolveAssemblyReference.cache
+C:\Users\30009613\Documents\Visual Studio 2012\Projects\ownProject\testWPF\obj\Debug\MainWindow.baml
+C:\Users\30009613\Documents\Visual Studio 2012\Projects\ownProject\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\30009613\Documents\Visual Studio 2012\Projects\ownProject\testWPF\obj\Debug\App.g.cs
+C:\Users\30009613\Documents\Visual Studio 2012\Projects\ownProject\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+C:\Users\30009613\Documents\Visual Studio 2012\Projects\ownProject\testWPF\obj\Debug\testWPF.g.resources
+C:\Users\30009613\Documents\Visual Studio 2012\Projects\ownProject\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+C:\Users\30009613\Documents\Visual Studio 2012\Projects\ownProject\testWPF\obj\Debug\ownProject.csproj.GenerateResource.Cache
+C:\Users\30009613\Documents\Visual Studio 2012\Projects\ownProject\testWPF\obj\Debug\testWPF.exe
+C:\Users\30009613\Documents\Visual Studio 2012\Projects\ownProject\testWPF\obj\Debug\testWPF.pdb
+C:\Users\30009613\Documents\Visual Studio 2012\Projects\ownProject\testWPF\obj\Debug\Window2.baml
+C:\Users\30009613\Documents\Visual Studio 2012\Projects\ownProject\testWPF\obj\Debug\Window2.g.cs
+C:\Users\simpl\Desktop\ownProject\testWPF\bin\Debug\testWPF.exe.config
+C:\Users\simpl\Desktop\ownProject\testWPF\bin\Debug\testWPF.exe
+C:\Users\simpl\Desktop\ownProject\testWPF\bin\Debug\testWPF.pdb
+C:\Users\simpl\Desktop\ownProject\testWPF\obj\Debug\ownProject.csprojResolveAssemblyReference.cache
+C:\Users\simpl\Desktop\ownProject\testWPF\obj\Debug\MainWindow.baml
+C:\Users\simpl\Desktop\ownProject\testWPF\obj\Debug\Window2.baml
+C:\Users\simpl\Desktop\ownProject\testWPF\obj\Debug\MainWindow.g.cs
+C:\Users\simpl\Desktop\ownProject\testWPF\obj\Debug\Window2.g.cs
+C:\Users\simpl\Desktop\ownProject\testWPF\obj\Debug\App.g.cs
+C:\Users\simpl\Desktop\ownProject\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+C:\Users\simpl\Desktop\ownProject\testWPF\obj\Debug\testWPF.g.resources
+C:\Users\simpl\Desktop\ownProject\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+C:\Users\simpl\Desktop\ownProject\testWPF\obj\Debug\ownProject.csproj.GenerateResource.Cache
+C:\Users\simpl\Desktop\ownProject\testWPF\obj\Debug\testWPF.exe
+C:\Users\simpl\Desktop\ownProject\testWPF\obj\Debug\testWPF.pdb
+C:\Users\simpl\Desktop\ownProject\testWPF\obj\Debug\Home.g.cs
+C:\Users\simpl\Desktop\ownProject\testWPF\obj\Debug\testWPF_MarkupCompile.lref
+C:\Users\simpl\Desktop\ownProject\testWPF\obj\Debug\Home.baml
+C:\Users\simpl\Desktop\ownProject\testWPF\obj\Debug\Info.g.cs
+C:\Users\simpl\Desktop\ownProject\testWPF\obj\Debug\Info.baml

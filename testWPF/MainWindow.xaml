@@ -1,0 +1,43 @@
+﻿<Window x:Class="testWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Fitness App XYZ - Details" Height="517" Width="503" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid Background="LightBlue" Margin="0,0,0,0">
+
+        <TextBox x:Name="textBoxStone" HorizontalAlignment="Left" Height="23" Margin="107,26,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="63" KeyboardNavigation.TabIndex="0"/>
+        <ListBox x:Name="listBoxGoal" HorizontalAlignment="Left" Height="86" Margin="107,142,0,0" VerticalAlignment="Top" Width="333" KeyboardNavigation.TabIndex="5">
+            <ListBoxItem x:Name="listBoxLoseOne" Content="Lose weight - 1lb per week"/>
+            <ListBoxItem x:Name="listBoxLoseTwo" Content="Lose weight - 2lb per week"/>
+            <ListBoxItem x:Name="listBoxGainOne" Content="Gain weight - 1lb per week'"/>
+            <ListBoxItem x:Name="listBoxGainTwo" Content="Gain weight - 2lb per week"/>
+            <ListBoxItem x:Name="listBoxMaintain" Content="Maintain weight"/>
+        </ListBox>
+        <Label Content="Weight:" HorizontalAlignment="Left" Margin="10,26,0,0" VerticalAlignment="Top"/>
+        <Label Content="Goal:" HorizontalAlignment="Left" Margin="10,142,0,0" VerticalAlignment="Top"/>
+        <Button Content="Calculate" Background="Orange" HorizontalAlignment="Left" Margin="10,0,0,10" Width="180" Click="onClick" Height="86" VerticalAlignment="Bottom"/>
+        <ListBox x:Name="listBoxGender" HorizontalAlignment="Left" Height="45" Margin="107,234,0,0" VerticalAlignment="Top" Width="333" KeyboardNavigation.TabIndex="6">
+            <ListBoxItem x:Name="listBoxMale" Content="Male"/>
+            <ListBoxItem x:Name="listBoxFemale" Content="Female"/>
+        </ListBox>
+        <Label Content="Gender:" HorizontalAlignment="Left" Margin="10,234,0,0" VerticalAlignment="Top" Width="55" RenderTransformOrigin="0.898,0.654"/>
+        <ListBox x:Name="listBoxActivity" HorizontalAlignment="Left" Height="74" Margin="107,289,0,0" VerticalAlignment="Top" Width="333" KeyboardNavigation.TabIndex="7">
+            <ListBoxItem Content="Little to no exercise"/>
+            <ListBoxItem Content="Light exercise (1–3 days per week)"/>
+            <ListBoxItem Content="Moderate exercise (3–5 days per week)"/>
+            <ListBoxItem Content="Heavy exercise (6–7 days per week)"/>
+            <ListBoxItem Content="Very heavy exercise (twice per day, extra heavy workouts)"/>
+        </ListBox>
+        <Label Content="Activity:" HorizontalAlignment="Left" Margin="10,289,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.517,-1.077"/>
+        <Button x:Name="buttonHome" Content="Home" Background="Orange" Margin="307,0,10,10" Click="buttonHome_Click" Height="86" VerticalAlignment="Bottom"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="10,61,0,0" TextWrapping="Wrap" Text="Age:" VerticalAlignment="Top" RenderTransformOrigin="0.417,0.312"/>
+        <TextBox x:Name="textBoxAge" HorizontalAlignment="Left" Height="23" Margin="107,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="63" KeyboardNavigation.TabIndex="2"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="14,105,0,0" TextWrapping="Wrap" Text="Height:" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxFeet" HorizontalAlignment="Left" Height="23" Margin="107,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="63" KeyboardNavigation.TabIndex="3"/>
+        <TextBox x:Name="textBoxInches" HorizontalAlignment="Left" Height="23" Margin="199,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="65" KeyboardNavigation.TabIndex="4"/>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="107,89,0,0" TextWrapping="Wrap" Text="Feet:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock3" HorizontalAlignment="Left" Margin="199,89,0,0" TextWrapping="Wrap" Text="Inches:" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxPounds" HorizontalAlignment="Left" Height="23" Margin="199,26,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="65" KeyboardNavigation.TabIndex="1"/>
+        <TextBlock x:Name="textBlock4" HorizontalAlignment="Left" Margin="107,10,0,0" TextWrapping="Wrap" Text="Stone:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock5" HorizontalAlignment="Left" Margin="199,10,0,0" TextWrapping="Wrap" Text="Pounds:" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+c:\users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\bin\Debug\testWPF.exe.config
+c:\users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\bin\Debug\testWPF.exe
+c:\users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\bin\Debug\testWPF.pdb
+c:\users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\testWPF.csprojResolveAssemblyReference.cache
+c:\users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\MainWindow.baml
+c:\users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\MainWindow.g.cs
+c:\users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\App.g.cs
+c:\users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\testWPF_MarkupCompile.cache
+c:\users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\testWPF.g.resources
+c:\users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\testWPF.Properties.Resources.resources
+c:\users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\testWPF.csproj.GenerateResource.Cache
+c:\users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\testWPF.exe
+c:\users\30009613\documents\visual studio 2012\Projects\testWPF\testWPF\obj\Debug\testWPF.pdb
